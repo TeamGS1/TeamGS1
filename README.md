@@ -9,4 +9,4 @@ TeamGS1/TeamGS1 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Join our YT(youtube channel) 
-GS Tech Tamil = (https://youtube.com/@GSTechTamil_01)
+GS Tech Tamil = "https://youtube.com/@GSTechTamil_01"
